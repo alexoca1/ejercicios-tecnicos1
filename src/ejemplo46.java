@@ -13,7 +13,7 @@ public class ejemplo46 {
                     System.out.print(texto1[q]);
 
                 }
-                System.out.print(",");
+                System.out.print(" ,");
             }
 
             System.out.println();
