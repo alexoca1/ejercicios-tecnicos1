@@ -16,7 +16,7 @@ public class ejemplo46 {
                 System.out.print(" ,");
             }
 
-            System.out.println();
+            System.out.println("\nfin");
         }
     }
 }
